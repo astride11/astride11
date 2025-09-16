@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mallo Poundi!
+# 👋 Hi, I'm Christel!
 
 🎓 Student at École Polytechnique (France) | Specializing in Financial Mathematics  
 📍 Did an academic exchange at TalTech (Estonia) – Focused on Econophysics & Data Science  

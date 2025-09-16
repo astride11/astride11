@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mallo Poundi!
 
 🎓 Student at École Polytechnique (France) | Specializing in Financial Mathematics  
-📍 Currently on academic exchange at TalTech (Estonia) – Focused on Econophysics & Data Science  
+📍 Did an academic exchange at TalTech (Estonia) – Focused on Econophysics & Data Science  
 🧠 Passionate about quantitative finance, machine learning, and stochastic modeling  
 🏸 Member of the École Polytechnique badminton team | Stone carving enthusiast
 
